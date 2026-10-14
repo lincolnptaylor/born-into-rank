@@ -1,2 +1,2 @@
 # born-into-rank
-N/A
+Born Into Rank, a Tools of a Historian project.
